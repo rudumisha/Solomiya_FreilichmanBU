@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+body {
+     font-family:  cursive;
+}
+nav a{
+      text-decoration: none;
+    color: black;
+
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px 20px 20px 20px;
+    background-color:rgb(174, 144, 201) ;
+    color:black;
+    }
+
+    nav a:hover{
+        text-decoration:underline;
+    }
+
+    .menu_img img{
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px 5px orange;
+    cursor: pointer;
+
+}
+  .menu_img img:hover{
+    transform:scale(40deg);
+    transition:1s ease-in ;
+  }
+.menu_a a:hover{
+    background-color: #d32269;
+    
+    transition: 1s ease-in;
+}
+h1{
+   font-size: 64px;
+   text-align: center;
+}
+.menu{
+    width: 679px;
+}
+p{
+  font-size: 24px;
+    
+}
+.menu_a a{
+    text-decoration: none;
+    color:black;
+    background-color:rgb(142, 121, 161) ;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    transition: 1s ease-in;
+
+}
+
+
+article div p {
+    font-family: "Marck Script", cursive;
+
+
+}
+
+.menu_a a{
+    text-decoration: none;
+    color:black;
+    background-color:rgb(142, 121, 161) ;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    transition: 1s ease-in;
+
+}
+
+.main_1{
+    background-color: #ffa9b1;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.menu_img img{
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.menu_head{
+    display: flex;
+    gap: 100px;
+
+}
+
+.menu_a{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    
+}
+
+
+
+.catalog{
+ display:flex;
+    justify-content: space-around; 
+}
+
+.catalog img{
+    border-radius: 20%;
+    transition: 1s ease-in;
+    width: 190px;
+    height: 190px;
+    border: #d32269 10px solid;
+    box-shadow: 10px 10px 10px 5px gray;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.catalog img:hover{
+   transform: rotateY(40deg);
+    transition: 1s ease-in;
+}
+
+.catalog p{
+ text-align: center;
+ font-size: 30px;
+ color:black;
+}
+
+.catalog_2{
+    display:flex;
+    justify-content: space-around;
+}
+
+.catalog_2 img{
+    border-radius: 20%;
+    transition: 1s ease-in;
+    width: 190px;
+    height: 190px;
+    border: #d32269 10px solid;
+    box-shadow: 10px 10px 10px 5px gray;
+    margin-right: 20px;
+}
+
+.catalog_2 img:hover{
+    transform: rotateY(40deg);
+    transition: 1s ease-in;
+}
+
+
+.catalog_2 p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.catalog_3{
+   display:flex;
+    justify-content: space-around; 
+}
+
+.catalog_3 img{
+    border-radius: 20%;
+    transition: 1s ease-in;
+    width: 190px;
+    height: 190px;
+    border: #d32269 10px solid;
+    box-shadow: 10px 10px 10px 5px gray;
+    margin-right: 20px;
+}
+
+.catalog_3 img:hover{
+    transform: rotateY(40deg);
+    transition: 1s ease-in;
+}
+
+.catalog_3 p{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+.footer_menu{
+    background-color:#ce7791 ;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+footer{
+    background-color: #ffa9b1;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
