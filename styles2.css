@@ -142,6 +142,7 @@ article div p {
     border: #d32269 10px solid;
     box-shadow: 10px 10px 10px 5px gray;
     margin-right: 20px;
+    cursor: pointer;
 }
 
 .catalog_2 img:hover{
@@ -168,6 +169,7 @@ article div p {
     border: #d32269 10px solid;
     box-shadow: 10px 10px 10px 5px gray;
     margin-right: 20px;
+    cursor: pointer;
 }
 
 .catalog_3 img:hover{

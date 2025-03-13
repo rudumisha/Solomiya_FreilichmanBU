@@ -85,6 +85,7 @@ article{
     height: 190px;
     border: #d32269 10px solid;
     box-shadow: 10px 10px 10px 5px gray;
+    cursor: pointer;
 }
 
 .sale img:hover{
@@ -131,7 +132,9 @@ article div p {
     background-color: #d32269;
     border-radius: 10px;
     padding: 20px;
-    transition: 1s ease-in
+    transition: 1s ease-in;
+    cursor: pointer;
+    
 }
 
 .order_1:hover{
@@ -143,7 +146,8 @@ article div p {
    background-color: #d32269;
     border-radius: 10px;
     padding: 20px;
-    transition: 1s ease-in 
+    transition: 1s ease-in ;
+    cursor: pointer;
 }
 
 .order_2:hover{
@@ -155,7 +159,8 @@ article div p {
     background-color: #d32269;
     border-radius: 10px;
     padding: 20px;
-    transition: 1s ease-in 
+    transition: 1s ease-in ;
+    cursor: pointer;
 }
 
 .order_3:hover{
